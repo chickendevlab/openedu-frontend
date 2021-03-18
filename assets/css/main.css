@@ -33,3 +33,16 @@ button {
 button.button.icon.circular.btn {
     width: 50px;
 }
+
+#rightSwitch {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+#rightSwitch button {
+    margin: 5px;
+}
