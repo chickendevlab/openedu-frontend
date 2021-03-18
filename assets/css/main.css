@@ -1,0 +1,35 @@
+.column {
+    min-height: 100%;
+    padding: 0.5em;
+}
+
+.segment {
+    min-height: 100%;
+    width: 100%;
+}
+
+.ui.segment.placeholder.nocenter {
+    justify-content: left;
+}
+
+.grid {
+    min-height: 100%;
+    padding: 3px;
+}
+
+button {
+    padding: 5px;
+}
+
+.nofull {
+    min-height: auto;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+button.button.icon.circular.btn {
+    width: 50px;
+}
